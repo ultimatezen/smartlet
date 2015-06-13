@@ -1,21 +1,21 @@
 {
-  "name": "bootstrap",
+  "name": "smartlet",
   "version": "0.0.1",
-  "description": "Bootstrap for server side projects",
+  "description": "Smartlet: Your smartphone becomes your portal to the world.",
   "main": "index.js",
   "scripts": {
     "start": "node --harmony ."
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ultimatezen/bootstrap"
+    "url": "https://github.com/ultimatezen/smartlet"
   },
   "author": "Tien Le",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ultimatezen/bootstrap/issues"
+    "url": "https://github.com/ultimatezen/smartlet/issues"
   },
-  "homepage": "https://github.com/ultimatezen/bootstrap",
+  "homepage": "https://github.com/ultimatezen/smartlet",
   "dependencies": {
     "koa": "0.21.0",
     "koa-router": "5.1.2",
@@ -23,7 +23,8 @@
 	"redis": "0.12.1",
     "co-redis": "1.1.1",
 	"config": "1.14.0",
-	"debug": "2.2.0"
+	"debug": "2.2.0",
+	"pg": "4.x"
   },
   "devDependencies": {
     "moment": "2.10.3",
