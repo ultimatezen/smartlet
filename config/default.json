@@ -1,0 +1,13 @@
+{
+	"db": {
+		"postgres": {
+			"user": "tienle",
+			"password": "smartlet",
+			"host": "localhost",
+			"database": "smartlet"
+		}
+	},
+	"server": {
+		"port": 3000
+	}
+}

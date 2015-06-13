@@ -24,6 +24,8 @@
     "co-redis": "1.1.1",
 	"config": "1.14.0",
 	"debug": "2.2.0",
+	"co": "4.5.4",
+	"co-pg": "1.3.1",
 	"pg": "4.x"
   },
   "devDependencies": {
